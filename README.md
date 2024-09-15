@@ -21,4 +21,4 @@ Curated list of replacements[^1] for terminal tools you already use
 | tree       | [tre](https://github.com/dduan/tre)                           | ![tre stars](https://img.shields.io/github/stars/dduan/tre)           | ![tre license](https://img.shields.io/github/license/dduan/tre)           | ![tre last commit](https://img.shields.io/github/last-commit/dduan/tre)           |
 | npm        | [pnpm](https://github.com/pnpm/pnpm)                          | ![pnpm stars](https://img.shields.io/github/stars/pnpm/pnpm)          | ![pnpm license](https://img.shields.io/github/license/pnpm/pnpm)          | ![pnpm last commit](https://img.shields.io/github/last-commit/pnpm/pnpm)          |
 
-[^1] Some of them may not necessarily be drop-in replacements, but this is a term that people recognize and many of these packages also claim this
+[^1]: Some of them may not necessarily be drop-in replacements, but this is a term that people recognize and many of these packages also claim this
