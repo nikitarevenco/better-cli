@@ -3,7 +3,7 @@ Curated list of replacements for terminal tools you already use
 
 |  Original  |  Replacement                                                 |
 |------------|--------------------------------------------------------------|
-| cd         |  [eza](https://github.com/eza-community/eza)                 |
+| ls         |  [eza](https://github.com/eza-community/eza)                 |
 | df         |  [duf](https://github.com/muesli/duf)                        |  
 | cat        |  [bat](https://github.com/sharkdp/bat)                       |
 | grep       |  [ripgrep](https://github.com/BurntSushi/ripgrep)            |
