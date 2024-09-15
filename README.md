@@ -1,5 +1,5 @@
 # better-cli
-Curated list of replacements for terminal tools 
+Curated list of replacements for terminal tools you already use
 
 |  Original  |  Replacement                                                 |
 |------------|--------------------------------------------------------------|
@@ -18,3 +18,4 @@ Curated list of replacements for terminal tools
 | top        |  [bpytop](https://github.com/aristocratos/bpytop)            |
 | kill       |  [fkill](https://github.com/sindresorhus/fkill-cli)          |
 | tree       |  [tre](https://github.com/dduan/tre)                         |
+| npm        |  [pnpm](https://github.com/pnpm/pnpm)                        |
