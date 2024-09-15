@@ -15,7 +15,7 @@ Curated list of replacements for terminal tools you already use
 | diff       |  [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)  |
 | rm         |  [rip](https://github.com/nivekuil/rip)                      |
 | dig        |  [doggo](https://github.com/mr-karan/doggo)                  |
-| top        |  [bpytop](https://github.com/aristocratos/bpytop)            |
+| top        |  [btop](https://github.com/aristocratos/btop)                |
 | kill       |  [fkill](https://github.com/sindresorhus/fkill-cli)          |
 | tree       |  [tre](https://github.com/dduan/tre)                         |
 | npm        |  [pnpm](https://github.com/pnpm/pnpm)                        |
